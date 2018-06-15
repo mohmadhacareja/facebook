@@ -3,6 +3,9 @@
 ## IG: @thelinuxchoice
 Facebook Brute Forcer in shellscript using TOR
 
+## Legal disclaimer:
+Usage of BruteCMS for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
+
 ### WARNING:
 ```
 Facebook blocks account for 1 hour after 20 wrong passwords, so this script can perform only 20 pass/h.
